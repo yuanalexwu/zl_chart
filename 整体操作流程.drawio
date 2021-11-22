@@ -1,1 +1,178 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T11:26:32.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Q411ZwJUE-LD-987Qvq9" version="15.5.5" type="github"><diagram id="_805p74xlZIRqZIO5IYV" name="Page-1">3ZRfT4MwFMU/zX004c9k8AgM1DiNRhOfu1GhSeFid+c2P73tKAMyTfTFB59of/e05Z5TAD+t91eKtdUdFlyC5xR78Bfgea7nBfphyMESZz7vSKlEYdkAnsQH74WWbkXBNxMhIUoS7RSusWn4miaMKYW7qewV5fTUlpX8DDytmTynL6KgqqOhNx/4NRdl1Z/sBlFXqVkvtp1sKlbgboT8DPxUIVI3qvcpl8a93pduXf5N9fRiijf0kwWF+xgs355vdrPlbUzRG6b38YXd5Z3JrW0YsjmEGSQOZJcQpZDEkIWQ5BA5ppQkkMwgmxluSlrjQhTaFunQ+6a7bc1wW8t4TajAT965IqGdXbIVlw+4ESSw0ZIVEmE9EsRSlKZA2GpaUS31xNVD3JIUDU9PWTsanvvQN6W34/sRsr5ccaw5qYOW9NX+ttlbGtrpbkjct6gahR1YxuwdK08bDzHogU3iF6l4X6SiM1hAnB+t1xkExvokhfCYU5ibGP5ZKp7zV6no6fAdHmuj35mffQI=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-22T12:15:48.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="BQ8OXRTegym4Euc8EE32" version="15.5.5" type="github">
+  <diagram id="_805p74xlZIRqZIO5IYV" name="Page-1">
+    <mxGraphModel dx="1226" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d1Q6LqTIw4LKAt9qoCNA-1" value="现场运维人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="81" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1Q6LqTIw4LKAt9qoCNA-2" value="软件开发人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="81" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="301" y="1361" as="sourcePoint" />
+            <mxPoint x="300.5" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="444.5" y="611" as="sourcePoint" />
+            <mxPoint x="444.5" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="1200" as="sourcePoint" />
+            <mxPoint x="660" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="1150" as="sourcePoint" />
+            <mxPoint x="150" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-10" value="客户现场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="270" as="sourcePoint" />
+            <mxPoint x="300" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;发现嵌入式软件运行不正常,寻求现场运维人员帮助定位&lt;br&gt;&lt;/span&gt;" placeholders="1" name="Variable" id="jWJ3kFH4TTj1UJesUZzv-12">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="178" y="211" width="100" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="445" y="440" as="sourcePoint" />
+            <mxPoint x="300" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;解决问题，并记录如何解决&lt;br&gt;&lt;/span&gt;" placeholders="1" name="Variable" id="jWJ3kFH4TTj1UJesUZzv-14">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="331" y="390" width="100" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="546" as="sourcePoint" />
+            <mxPoint x="650" y="546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="200" as="sourcePoint" />
+            <mxPoint x="650" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-17" value="初始阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="259" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="445" y="1200" as="sourcePoint" />
+            <mxPoint x="444.5" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-19" value="验证问题诊断方法阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="646" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="746" as="sourcePoint" />
+            <mxPoint x="650" y="746" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-21" value="诊断信息中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="444" y="616" as="sourcePoint" />
+            <mxPoint x="650" y="616" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;根据问题解决思路，调研是否可以根据现有的嵌入式软件日志来判断这次问题的触发，寻找一种可靠的模式&lt;br&gt;&lt;/span&gt;" placeholders="1" name="Variable" id="jWJ3kFH4TTj1UJesUZzv-23">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="464" y="530" width="166" height="110" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="698" as="sourcePoint" />
+            <mxPoint x="298" y="698" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;生成测试软件包，并提供给现场人员进行长时间验证&lt;br&gt;&lt;/span&gt;" placeholders="1" name="Variable" id="jWJ3kFH4TTj1UJesUZzv-25">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="324" y="641" width="100" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-29" value="发布阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="846" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439" y="830" as="sourcePoint" />
+            <mxPoint x="639" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;将稳定确认的软件包发布到诊断包管理中心&lt;br&gt;&lt;/span&gt;" placeholders="1" name="Variable" id="jWJ3kFH4TTj1UJesUZzv-31">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="486" y="756" width="113" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="370" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;现场人员寻找诊断信息中心，没有找到解决方案,上报软件开发人员帮助定位&lt;br&gt;&lt;/span&gt;" placeholders="1" name="Variable" id="jWJ3kFH4TTj1UJesUZzv-33">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="320" y="300" width="119" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300.5" y="510" as="sourcePoint" />
+            <mxPoint x="155.5" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;现场实施确认问题解决&lt;br&gt;&lt;/span&gt;" placeholders="1" name="Variable" id="jWJ3kFH4TTj1UJesUZzv-35">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="186.5" y="460" width="100" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655" y="920" as="sourcePoint" />
+            <mxPoint x="310" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;将新的软件包提供给现场运维人员&lt;br&gt;&lt;/span&gt;" placeholders="1" name="Variable" id="jWJ3kFH4TTj1UJesUZzv-37">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="541" y="870" width="100" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;上传更新现场嵌入式设备的诊断包&lt;br&gt;&lt;/span&gt;" placeholders="1" name="Variable" id="jWJ3kFH4TTj1UJesUZzv-39">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="178" y="940" width="100" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jWJ3kFH4TTj1UJesUZzv-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="303" y="1000" as="sourcePoint" />
+            <mxPoint x="148" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
